@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+
+# Do not ignore
+!.gitignore
+!/Identify_Customer_Segments.ipynb
+!/report.html
